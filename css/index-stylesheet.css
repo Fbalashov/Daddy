@@ -73,7 +73,7 @@ section {
 
     #home .overlay {
         padding-top: 100px;
-        background-color: rgba(0, 0, 0, 0.8);
+        background-color: rgba(0, 0, 0, 0.3);
         min-height: 700px;
         padding-bottom: 40px;
     }
@@ -142,6 +142,10 @@ a.btn-launch, a.btn-launch:hover, a.btn-launch:focus {
     #home-below h2 {
         font-size: 20px;
         line-height: 30px;
+    }
+
+    #home-below p {
+      line-height: 18px;
     }
 /*================================
   FEATURE SECTION STYLES
