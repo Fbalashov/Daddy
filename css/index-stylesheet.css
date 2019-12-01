@@ -266,7 +266,7 @@ footer {
 }
 
 #features {
-    padding: 0px 0px 60px 0px;
+    padding: 0px 0px 0px 0px;
 }
 
 #features > #home-below > .text-center > .col-sm-offset-1 > .text-center > .col-xs-12 > p {
@@ -279,67 +279,23 @@ footer {
 
 #features > .overlay {
     background-color: rgba(0, 0, 0, 0.8);
-}
-
-#clients > .overlay {
-    background-image: url("https://app.saul.angry.ventures/assets/images/uploads/TuAUGoCbQfYwnn5.jpeg");
-}
-
-#features > .overlay {
-    background-image: url("https://app.saul.angry.ventures/assets/images/uploads/TuAUGoCbQfYwnn5.jpeg");
-}
-
-#clients > .overlay {
-    background-image: url("https://app.saul.angry.ventures/assets/images/uploads/TuAUGoCbQfYwnn5.jpeg");
-}
-
-#home {
-    background-image: url("https://app.saul.angry.ventures/assets/images/uploads/6triTUcfEiwN3zk.png");
-    background-position: center center;
-}
-
-#home {
-    background-image: url("https://app.saul.angry.ventures/assets/images/uploads/sEAgRNpmfu457aT.png");
-}
-
-#home {
-    background-image: url("https://app.saul.angry.ventures/assets/images/uploads/sEAgRNpmfu457aT.png");
-}
-
-#clients {
-    background-image: url("https://app.saul.angry.ventures/assets/images/uploads/JYZ1TdkVbGbsWd6.jpeg");
-    background-position: center center;
-}
-
-#clients {
-    background-image: url("https://app.saul.angry.ventures/assets/images/uploads/h8ZOCsyQeVytEQS.jpeg");
-    background-position: center center;
-}
-
-#features {
-    background-image: url("https://app.saul.angry.ventures/assets/images/uploads/cAQ5CrqVp05jrXD.jpeg");
-    background-position: top center;
-    background-size: cover;
-}
-
-#clients {
-    background-image: url("https://app.saul.angry.ventures/assets/images/uploads/h8ZOCsyQeVytEQS.jpeg");
-    background-position: center center;
-}
-
-#clients {
-    background-image: url("https://app.saul.angry.ventures/assets/images/uploads/h8ZOCsyQeVytEQS.jpeg");
-    background-position: center center;
-}
-
-#features {
-    background-image: url("https://app.saul.angry.ventures/assets/images/uploads/cAQ5CrqVp05jrXD.jpeg");
-    background-position: top center;
-    padding: 0px 0px 0px 0px;
-}
-
-#features > .overlay {
     background-position: center center !important;
+}
+
+#home {
+  background-image: url("../images/coffeeisserved.png");
+  background-position: center center;
+}
+
+#clients {
+  background-image: url("../images/dinner-fun.jpeg");
+  background-position: center center;
+}
+
+#features {
+  background-image: url("../images/accessories.jpeg");
+  background-position: top center;
+  background-size: cover;
 }
 
 #home > .overlay {
@@ -362,25 +318,12 @@ footer {
     color: #ececec;
 }
 
-#home {
-    background-image: url("https://app.saul.angry.ventures/assets/images/uploads/FD156GaKeF2J7Qz.png");
-    background-position: top center;
-}
-
 #features > .overlay > .container > .text-center > .col-sm-offset-2 > h3 {
     color: #ececec;
 }
 
 #clients > .overlay > .container > .text-center > .col-sm-offset-2 > h3 {
     color: #ececec;
-}
-
-#home {
-    background-image: url("https://app.saul.angry.ventures/assets/images/uploads/QxxyEDb09KahWji.png");
-}
-
-#features {
-    background-image: url("https://app.saul.angry.ventures/assets/images/uploads/UgzEqMCbw9KmgbE.jpeg");
 }
 
 #clients > .overlay > .container > .text-center > .col-sm-offset-2 > p {
@@ -401,14 +344,6 @@ footer {
     color: #ececec;
 }
 
-#home {
-    background-image: url("https://app.saul.angry.ventures/assets/images/uploads/QxxyEDb09KahWji.png");
-}
-
-#features {
-    background-image: url("https://app.saul.angry.ventures/assets/images/uploads/UgzEqMCbw9KmgbE.jpeg");
-}
-
 #clients > .overlay > .container > .text-center > .col-sm-offset-2 > p {
     color: #ececec;
     padding: px 0px 0px 0px;
@@ -417,9 +352,5 @@ footer {
 
 #home-below > .container > .img-responsive {
     margin: 20px auto 0px auto !important;
-}
-
-#clients {
-    background-image: url("https://app.saul.angry.ventures/assets/images/uploads/bbZ9tRZfww29umH.jpeg");
 }
 
